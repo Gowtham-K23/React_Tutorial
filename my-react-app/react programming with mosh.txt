@@ -1,0 +1,7 @@
+install node js
+go to vscode
+create and open a folder
+type node -v
+npx create-react-app name
+cd name
+npm start

@@ -1,0 +1,11 @@
+Install node and check whether it is installed or not
+create a folder and open it in vscode 
+in terminal, type npm create vite@latest 
+type your project name directly, select react as library and select javascript 
+
+change your directory cd file name
+npm install 
+npm run dev 
+copy the local host url and paste it in chrome or edge
+
+if any changes done in the file, open new terminal and run npm dev again to create an another localhost link
